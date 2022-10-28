@@ -1,0 +1,6 @@
+{
+    "domain": "https://dev-ubcxyytm.us.auth0.com",
+    "clientId": "8dUKXLOmVMxcgP6HdMIUPu2acOiItM1p",
+    "audience": "https://dev-ubcxyytm.us.auth0.com/api/v2/",
+    "errorPath": "/error"
+  }
